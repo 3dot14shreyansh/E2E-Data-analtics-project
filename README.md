@@ -12,3 +12,10 @@ An ideal expectation with this analytics project would be witnessing
 - Lowering of cancellation rates.
 - Increased occupancy.
 
+### Assumptions - 
+- No unusual occerences / outliers are in between 2015 to 2017.
+- Though this is an old data but here we will take it as current data and which is why we may take up this analysis expand hotel's efficiency.
+- The biggest factor affecting the revenue is booking cancellation.
+- Cancellation results in vaccant room for the length of booked time.
+
+
