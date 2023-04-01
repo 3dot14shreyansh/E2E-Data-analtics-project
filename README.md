@@ -18,4 +18,7 @@ An ideal expectation with this analytics project would be witnessing
 - The biggest factor affecting the revenue is booking cancellation.
 - Cancellation results in vaccant room for the length of booked time.
 
-
+### Questions of research -
+- Reasons of room cancellations.
+- How to bring back monetry loss from cancelled booking (Re-engaging the room to next potential customer).
+- Assistance made 
