@@ -21,4 +21,9 @@ An ideal expectation with this analytics project would be witnessing
 ### Questions of research -
 - Reasons of room cancellations.
 - How to bring back monetry loss from cancelled booking (Re-engaging the room to next potential customer).
-- Assistance made 
+- Assistance made towards room/hotel/resort management in deciding price and running promotional events/advertisment.
+
+### Hypothesis -
+- Probabiltity of cancelling the room tickets by customers increases with increase in room rental price.
+- Majority of the customers are coming via offline travel agency route.
+
